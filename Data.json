@@ -1,0 +1,16 @@
+{
+	
+		
+		"url": "https://www.wiggles.in/",
+		"browser": "chrome",
+		"comment_data": "\\src\\test\\java\\com\\prenetics\\data\\applydata.json",
+		"object_repository": "\\src\\test\\java\\com\\prenetics\\data\\objectrepository.json",
+		"chrome_exe": "F:\\Selenium Class from Shrikant\\6thymay2022\\CucumberJava1\\Drivers\\chromedriver.exe",
+		"customeinvalidemail":"ddd",
+		"customerinvalidpassword":"eee"
+	
+		
+		
+		
+	
+}
